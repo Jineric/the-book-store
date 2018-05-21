@@ -1,0 +1,16 @@
+---
+swagger: "2.0"
+info:
+  description: "Book Store APIs"
+  version: "1.0.0"
+  title: "BookStore APIs"
+  contact:
+    name: "Eric Baek"
+    email: "jinbaek7@gmail.com"
+host: "localhost:8080"
+basePath: "/bookstore-back/api"
+tags:
+- name: "Book"
+schemes:
+- "http"
+- "https"
